@@ -1,2 +1,2 @@
-# scholl
+# school
 Online school Registration form
